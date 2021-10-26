@@ -12,7 +12,7 @@ This is a Cartoon Character Identification Game. There are four main menus: `Sta
 
 
 <p align="center">
-  <img src="./images/looklike.png" width="500" height='300'/>
+  <img src="./images/looklike.png" width="600" height='450'/>
 </p>
 
 ## Technologies
